@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+But these
+!DoNotUpload/*
+!Sample.log
+!Test.bat
+!Folder1/*
+
+
