@@ -5,7 +5,6 @@
 # But include these
 .gitignore
 !MyTest/*
-!Sample.log
 !Test.bat
 !Folder1/*
 !**/*.txt
