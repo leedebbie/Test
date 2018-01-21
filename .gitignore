@@ -8,6 +8,6 @@
 !Test.bat
 !Folder1/*
 !**/*.txt
-!Verifix6.0/**/ABC
+!/**/ABC
 
 
